@@ -92,3 +92,4 @@ JOIN mean_madcow mea
 	ON mea.company = m.company
 JOIN median_madcow med
 	ON med.company = m.company;
+
